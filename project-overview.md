@@ -6,4 +6,4 @@ adding a line to check the merge to develop branch
 
 fixed bug in release
 
-I am B
+I am not A at all
