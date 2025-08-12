@@ -5,3 +5,5 @@ The project's purpose is to appreciate the art of debating in online world. The 
 adding a line to check the merge to develop branch 
 
 fixed bug in release
+
+I am A
