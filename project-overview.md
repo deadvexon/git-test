@@ -8,4 +8,4 @@ fixed bug in release
 
 I am not A at all
 
-test -> release-commit1 
+test -> release-commit1 -> release-commmit2
