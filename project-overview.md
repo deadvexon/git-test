@@ -6,4 +6,5 @@ adding a line to check the merge to develop branch
 
 fixed bug in release
 
-I am A
+I am not A at all
+HIGH DEGREE SECURITY FIX 
